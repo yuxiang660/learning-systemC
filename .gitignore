@@ -1,0 +1,8 @@
+# vscode folder
+.vscode
+
+# object files
+*.o
+
+# executable file
+app
