@@ -9,3 +9,6 @@ app
 
 # wavefor file
 *.vcd
+
+# data file
+*.dat
