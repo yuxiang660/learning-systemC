@@ -6,3 +6,6 @@
 
 # executable file
 app
+
+# wavefor file
+*.vcd
